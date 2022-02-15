@@ -1,0 +1,14 @@
+Comando fundamentais:
+
+Git init - Iniciar repositório
+Git Status - Verificar o status dos arquivos
+Git add (Nome do arquivo ou . para adicionar todos)
+git commit -a -m "Descrição do que foi feito" 
+git push - enviar o arquivo para o servidor
+git pull - sincronizar com os arquivos que estão no servidor
+git clone - clonar um repositório
+git mv - mover ou renomear arquivo
+git reset --hard origin/master - resetar commits feitos e/ou alterações indevidas
+
+
+.gitignore - usado para ignorar arquivos
