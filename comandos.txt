@@ -10,3 +10,5 @@ git clone - clonar um repositório
 git mv - mover ou renomear arquivo
 git reset --hard origin/master - resetar commits feitos e/ou alterações indevidas
 .gitignore - usado para ignorar arquivos
+
+
