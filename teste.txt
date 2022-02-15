@@ -1,1 +1,2 @@
 Testando novamente o envio
+Testando envio sem o add apenas com commit -a -m
