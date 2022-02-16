@@ -9,6 +9,11 @@ git pull - sincronizar com os arquivos que estão no servidor
 git clone - clonar um repositório
 git mv - mover ou renomear arquivo
 git reset --hard origin/master - resetar commits feitos e/ou alterações indevidas
-
-
 .gitignore - usado para ignorar arquivos
+
+
+git branch - verifica todos os branchs
+git branch nome - cria um novo branch
+git checkout -b - muda e cria o branch
+git push origin branch - envia para o branch informado
+git branch -d ou --delete - apaga o branch
